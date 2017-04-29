@@ -1,0 +1,22 @@
+{
+  "name": "custom-logger",
+  "version": "1.0.0",
+  "description": "A Custom Logger to help easy debugging with controls to switch between various levels of msgs to log",
+  "main": "main.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shashank-komuroju/custom-logger.git"
+  },
+  "keywords": [
+    "logger"
+  ],
+  "author": "shashank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shashank-komuroju/custom-logger/issues"
+  },
+  "homepage": "https://github.com/shashank-komuroju/custom-logger#readme"
+}
